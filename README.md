@@ -1,1 +1,1 @@
-# guessImage simple site on JavaScript
+# guessImage simple site on HTML, JavaScript.
